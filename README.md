@@ -1,6 +1,6 @@
 # 🤖 Talx API - AI Backend  
 
-**Visit Talx**: [https://talx.vercel.app/](https://talx.vercel.app/)  
+**Visit Talx**: [https://talx-api-two.vercel.app/](https://talx-api-two.vercel.app/)  
 
 **Talx API** powers the AI-driven functionalities of the **Talx** platform, providing intelligent features like **ResumeAI** and **Chat Assistant AI**. This backend is built with Flask and leverages advanced AI models, ensuring seamless integration of AI capabilities into the Talx ecosystem.  
 
@@ -177,8 +177,3 @@ curl -X POST http://127.0.0.1:5000/genie \
 ```
 
 ---
-
-## 📜 License  
-
-This project is licensed under the [MIT License](https://github.com/aakashdixit22/talx-api/blob/main/LICENSE).  
-
