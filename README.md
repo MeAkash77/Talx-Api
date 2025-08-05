@@ -45,10 +45,10 @@ Talx API is the core AI backend for the Talx job portal, handling functionalitie
 ## 🔗 Related Repositories  
 
 1. **Talx Frontend (Main Platform)**  
-   - [talx-frontend](https://github.com/aakashdixit22/talx-frontend)  
+   - [talx-frontend](https://github.com/MeAkash77/Talx-Full-Stack-Frontend)  
 
 2. **Talx Backend (Job Portal Backend)**  
-   - [talx-backend](https://github.com/aakashdixit22/talx-backend)  
+   - [talx-backend](https://github.com/MeAkash77/Talx-Backend)  
 
 ---
 
@@ -133,7 +133,7 @@ Talx API is the core AI backend for the Talx job portal, handling functionalitie
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/aakashdixit22/talx-api.git
+   git clone https://github.com/MeAkash77/Talx-Api.git
    cd talx-api
    ```  
 
